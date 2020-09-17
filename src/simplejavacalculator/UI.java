@@ -63,7 +63,7 @@ public class UI implements ActionListener {
    private BufferedImageCustom imageReturn;
    
    public UI() throws IOException {
-      frame = new JFrame("Calculator PH");
+      frame = new JFrame("Karuna Bhaila");
       
       imageReturn = new BufferedImageCustom();
       image = new ImageIcon(imageReturn.imageReturn());      
